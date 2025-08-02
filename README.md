@@ -47,23 +47,6 @@ A machine learning project that predicts flood insurance claim approval likeliho
 | **Gradient Boosting** | **94%** | **0.96** | **0.90** |
 | MLP Neural Network | 90% | 0.93 | 0.86 |
 
-## Repository Structure
-```
-├── data/
-│   ├── nfip/          # NFIP claims data
-│   └── noaa/          # NOAA storm events
-├── notebooks/
-│   ├── preprocessing.ipynb
-│   ├── eda.ipynb
-│   └── modeling.ipynb
-├── src/
-│   ├── data_preprocessing.py
-│   ├── feature_engineering.py
-│   └── model_training.py
-└── results/
-    ├── figures/
-    └── model_outputs/
-```
 
 ## Key Findings
 1. **Tree ensembles outperform** linear and neural network models
