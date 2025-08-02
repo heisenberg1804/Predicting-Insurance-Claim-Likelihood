@@ -1,5 +1,3 @@
-Based on your project report, here's a crisp GitHub README template:
-
 # Predicting Insurance Claim Likelihood Based on Claim Features and Extreme Weather Events
 
 ## Overview
@@ -78,9 +76,3 @@ A machine learning project that predicts flood insurance claim approval likeliho
 - Implement HistGradientBoostingClassifier for native NaN handling
 - Investigate deep learning architectures
 - Expand feature engineering for storm-specific signals
-
-## Course
-IE 7275 - Data Mining in Engineering, Northeastern University
-
----
-*Note: This project demonstrates the application of machine learning techniques to improve insurance risk assessment by integrating multiple data sources for better predictive accuracy.*
